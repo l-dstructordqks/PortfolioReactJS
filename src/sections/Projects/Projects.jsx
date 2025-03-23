@@ -12,7 +12,7 @@ export default function Projects() {
                     linkn='https://github.com/l-dstructordqks/TarawasiRestaurant'
                     h3='Tarawasi Restaurant'
                     p='PHP, JS, Sass, SQL, reservation API, and MVC architecture'
-                    color="url(/src/assets/tarawasiapp.png)"
+                    color="url(/tarawasiapp.png)"
                 />
                 
                 <ProjectCard
@@ -21,7 +21,7 @@ export default function Projects() {
                     linkn='https://nasaapiwreact.netlify.app/'
                     h3='NasaApi App'
                     p='ReactJS, linked to nasa API'
-                    color="url(/src/assets/nasaapp.png)"
+                    color="url(/nasaapp.png)"
                 />
                 <ProjectCard
                     
@@ -29,7 +29,7 @@ export default function Projects() {
                     linkn='https://todoslistreactjsss.netlify.app/'
                     h3='Todo App'
                     p='CRUD app with ReactJS'
-                    color="url(/src/assets/todoapp.png)"
+                    color="url(/todoapp.png)"
                 />
                 
             </div>
