@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 1rem;
+    left: 0;
+    transition: .5s;
+    background-color: #649cdc;
+    color: blue;
+
+}
+#marker {
+    position: absolute;
+    height: 4rem;
+    width: 4rem;
+    left: 0;
+    top: 0;
+    transition: 0.5s;
+    border-radius: 50%;
+    background-color: #000;
+}
+.navElement {
+    color: white;
+}

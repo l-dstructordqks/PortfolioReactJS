@@ -1,0 +1,47 @@
+.aboutContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    height: 100dvh;
+    min-height: 500px;
+    max-width: 200px;
+    margin: 0 auto;
+}
+.aboutAvatar {
+    min-width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-size: cover; 
+    background-color: white;
+    margin: 0 auto;
+}
+.aboutImage {
+    max-width: 100%;
+    width: 200px;
+    border-radius: 50%;
+}
+.aboutInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+span {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    i {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 800px) {
+    .aboutContainer {
+        flex-direction: row-reverse;
+        align-items: center;
+        max-width: 350px;
+        width: 350px;
+    }
+}
