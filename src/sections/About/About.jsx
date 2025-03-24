@@ -25,7 +25,7 @@ export default function About() {
                 </a>
                 </span>
                 <p className={styles.description}>
-                Passionate about developing efficient solutions with front-end and back-end technologies. I learn quickly, adapt to new challenges, and strive to add value from day one. Eager to join a dynamic team and continue growing.
+                I learn quickly, adapt to new challenges, and strive to add value from day one. Eager to join a dynamic team and continue growing.
                 </p>
                 <a href="/CV.pdf" download>
                 <button className="hover">Resume</button>
