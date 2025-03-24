@@ -25,8 +25,7 @@ export default function About() {
                 </a>
                 </span>
                 <p className={styles.description}>
-                With a passion for developing modern React web apps for commercial
-                businesses.
+                Passionate about developing efficient solutions with front-end and back-end technologies. I learn quickly, adapt to new challenges, and strive to add value from day one. Eager to join a dynamic team and continue growing.
                 </p>
                 <a href="/CV.pdf" download>
                 <button className="hover">Resume</button>
