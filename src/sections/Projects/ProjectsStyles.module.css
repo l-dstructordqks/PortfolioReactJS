@@ -3,6 +3,7 @@
     flex-direction: column;
     text-align: center;
     padding-top: 3rem;
+    min-height: 100dvh;
 }
 .projectsContainer {
     display: flex;

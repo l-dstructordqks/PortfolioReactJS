@@ -1,7 +1,10 @@
 .skillsContainer {
-    display: flex;
+    min-height: 100dvh;
+    display: flex
+;
     flex-direction: column;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
   
     span {
       display: flex;
@@ -38,7 +41,7 @@
     .skillList {
       max-width: fit-content;
       gap: 30px;
-  
+      margin: 0 auto;  
       p {
         font-size: 20px;
       }

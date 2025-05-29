@@ -3,6 +3,7 @@ import styles from './SkillsStyle.module.css';
 export default function Skills() {
     return (
         <div className={styles.skillsContainer}>
+            <div>
             <h1 className='elementTitle'>Skills</h1>
             <div className={styles.skillList}>
                 <span>
@@ -45,6 +46,7 @@ export default function Skills() {
                     <p>Node.js</p>
                 </span>
                 
+            </div>
             </div>
         </div>
     )

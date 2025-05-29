@@ -14,7 +14,7 @@ export default function About() {
                 <br />
                 Antezana
                 </h1>
-                <h2>Jr Web Developer</h2>
+                <h2>Jr Developer</h2>
                 <span>
                 
                 <a href="https://github.com/l-dstructordqks" target="_blank">
